@@ -49,7 +49,7 @@ body {
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background: url('/assets/3.svg') no-repeat left center, url('/assets/4.svg') no-repeat right center;
+    background: url('./assets/3.svg') no-repeat left center, url('./assets/4.svg') no-repeat right center;
     background-position: calc(0% + 10px) center, calc(100% - 10px) center;
 }
 
